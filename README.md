@@ -16,7 +16,7 @@ Format of each instance:
 22  4  2  1 3
 23  4  2  2 5
 
-6		# nb of fabric ports
+6	# nb of fabric ports
 0 1.0	# port_id - port_capacity	
 1 1.0
 2 1.0
