@@ -13,7 +13,7 @@ CoflowLib
 │	 	├── w_off_facebook_m10_c10.zip
 │	  	└── ...
 └── online_instances
-   	├── `batch
+   	├── batch
  	│ 	├── on_synthetic_batch_m10_c8000_l2.zip
    	│  	└── ...
    	└── nobatch
