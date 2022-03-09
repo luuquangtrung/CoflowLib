@@ -5,18 +5,18 @@ CoflowLib is a library of test instances for coflows in datacenter networks
 Structure of the repository:
 ```
 CoflowLib
-├── `offline_instances`
-│      	├── `noweight`
+├── offline_instances
+│      	├── noweight
 │ 	│ 	├── off_facebook_m10_c10.zip
 │   	│  	└── ...
-│	└── `weight`
+│	└── weight
 │	 	├── w_off_facebook_m10_c10.zip
 │	  	└── ...
-└── `online_instances`
-   	├── `batch`
+└── online_instances
+   	├── `batch
  	│ 	├── on_synthetic_batch_m10_c8000_l2.zip
    	│  	└── ...
-   	└── `nobatch`
+   	└── nobatch
  	 	├── on_synthetic_nobatch_m10_c2000_l2.zip
   		└── ...
 ```
