@@ -25,7 +25,7 @@ CoflowLib contains instances for offline and online simulations.
 * `offline_instances` provides instances for offline simulations (i.e., the arrival time of all coflows is set to zero). Coflows may have or do not have weights (respectively in the `weight` and `noweight` folder).
 * `online_instances` provides instances for offline simulations. Two scenarios are considered:
 	* the first scenario (folder `batch`) is when coflows arrive as a batch each time, with a Poisson distribution of rate `lambda`, the value of `lambda` is indicated in the name of each instance (e.g., `l2` means `lambda = 2`, or `lam0p2` means `lambda = 0.2`);
-	* the second scenario (folder `nobatch`) is the basic situation, in which coflows arrive each at a time.
+	* the second scenario (folder `nobatch`) is the basic situation, in which each coflow arrives at a time.
 
 
 Format of each instance:
@@ -51,4 +51,15 @@ Format of each instance:
 4 1.0
 5 1.0
 ```
+
+
+#### Authors
+* Quang-Trung Luu
+* Cédric Richier
+* Rachid El-Azouzi
+* Francesco De Pellegrini
+* Olivier Brun
+* Balakrishna J. Prabhu
+
+(c) 2022 LIA - University of Avignon and LAAS-CNRS
 
