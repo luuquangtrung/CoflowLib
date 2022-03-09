@@ -4,7 +4,8 @@ CoflowLib is a library of test instances for coflows in datacenter networks
 Format:
 
 
-> 10 : T
+```
+10 : T
 2 : nb coflows
 
 1  1 0  5  2 : Coflot 1 : id realtime=1 arrival time dadline nb flows
@@ -23,4 +24,4 @@ Format:
 3 1.0
 4 1.0
 5 1.0
-'''
+```
