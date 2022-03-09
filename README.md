@@ -7,11 +7,11 @@ Structure of the repository:
 CoflowLib
 ├── `offline_instances`
 │      	├── `noweight`
-│ 		│ 	├── off_facebook_m10_c10.zip
+│ 	│ 	├── off_facebook_m10_c10.zip
 │   	│  	└── ...
-│	   	└── `weight`
-│	 	 	├── w_off_facebook_m10_c10.zip
-│	  		└── ...
+│	└── `weight`
+│	 	├── w_off_facebook_m10_c10.zip
+│	  	└── ...
 └── `online_instances`
    	├── `batch`
  	│ 	├── on_synthetic_batch_m10_c8000_l2.zip
