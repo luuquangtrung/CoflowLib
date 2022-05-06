@@ -54,12 +54,12 @@ Format of each instance:
 
 
 #### Authors
-* Quang-Trung Luu
-* Cédric Richier
-* Rachid El-Azouzi
-* Francesco De Pellegrini
-* Olivier Brun
-* Balakrishna J. Prabhu
+* [Quang-Trung Luu](https://luuquangtrung.github.io/)
+* [Cédric Richier](https://fr.linkedin.com/in/c%C3%A9dric-richier-168773a0)
+* [Rachid El-Azouzi](https://scholar.google.com/citations?user=Tvto5qkAAAAJ&hl=en)
+* [Francesco De Pellegrini](https://scholar.google.com/citations?user=EYyOnEkAAAAJ&hl=en)
+* [Olivier Brun](https://homepages.laas.fr/brun/)
+* [Balakrishna J. Prabhu](https://homepages.laas.fr/bala/)
 
 (c) 2022 LIA - University of Avignon and LAAS-CNRS
 
